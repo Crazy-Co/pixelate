@@ -15,10 +15,11 @@
   justify-content: center;
   min-height: 100vh;
   background-color: #e3f2fd;
-  background: url('./bg2.jpg');
+  background: url('./bg.jpg');
   background-position: center;
   background-size: 90%;
   background-repeat: no-repeat;
+  overflow-x: hidden;
 }
 .container{
   width: 850px;
@@ -31,7 +32,7 @@
 }
 .container.disable{
   background: #d5d4d4;
-  scale: 1.1;
+  scale: 1.05;
 }
 .container.disable :where(.editor-panel, .reset-filter, .save-img){
   pointer-events: none;
@@ -184,6 +185,9 @@
   .wrapper .preview-img{
     width: 100%;
     margin: 0 0 15px;
+  }
+  .app{
+    background-size: cover;
   }
 }
 
