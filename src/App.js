@@ -141,7 +141,7 @@ const App = () => {
       return;
     }
 
-    previewImg.parentElement.style.backgroundColor = "#fff";
+    previewImg.parentElement.style.backgroundColor = "transparent";
     previewImg.src = URL.createObjectURL(file); // passing file url to preview image src
     previewImg.addEventListener("load", () => {
       document.querySelector(".container").classList.remove('disable');
