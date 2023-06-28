@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pixelate/static/css/main.c4c5dbe0.css",
+    "main.js": "/pixelate/static/js/main.43ad724b.js",
+    "static/js/787.8361a328.chunk.js": "/pixelate/static/js/787.8361a328.chunk.js",
+    "static/media/bg2.jpg": "/pixelate/static/media/bg2.281cbc823360b73c49a6.jpg",
+    "index.html": "/pixelate/index.html",
+    "main.c4c5dbe0.css.map": "/pixelate/static/css/main.c4c5dbe0.css.map",
+    "main.43ad724b.js.map": "/pixelate/static/js/main.43ad724b.js.map",
+    "787.8361a328.chunk.js.map": "/pixelate/static/js/787.8361a328.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c5dbe0.css",
+    "static/js/main.43ad724b.js"
+  ]
+}
